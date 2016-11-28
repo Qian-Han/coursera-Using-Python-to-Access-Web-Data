@@ -1,0 +1,1 @@
+print "assignment 1 for Using Python to Access Web Data"
